@@ -1,0 +1,1 @@
+cl /EHsc /std:c++17 client.cpp searcher.cpp /I include /link /LIBPATH:lib 

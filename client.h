@@ -1,0 +1,19 @@
+#include <cstdlib>
+#include    <iostream>
+    using   std::cin;
+    using   std::cout;
+    using   std::endl;
+#include <fstream>
+    using   std::ofstream;
+#include <sstream>
+    using   std::stringstream;
+#include    <string>
+    using   std::string;
+    using   std::to_string;
+#include <filesystem>
+    using   std::filesystem::path;
+    using   std::filesystem::exists;
+#include <stdexcept>
+    using   std::exception;
+#include <deque>
+    using   std::deque;

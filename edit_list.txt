@@ -1,0 +1,4 @@
+file output/cut1.mp4
+file output/cut2.mp4
+file output/cut3.mp4
+file output/cut4.mp4
